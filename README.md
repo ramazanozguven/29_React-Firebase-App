@@ -1,6 +1,6 @@
 # React Firebase App | AUTH - CRUD - Image Upload
 
-![Projektvorschau]()
+![Projektvorschau](https://github.com/ramazanozguven/29_React-Firebase-App/blob/a2847efda28e7749a85b7fe3538c20e19aba592b/Projektvorschau.png)
 
 ## Webanwendung mit React & Firebase – Echtzeit & Cloud-Lösungen
 
